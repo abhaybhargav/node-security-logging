@@ -1,0 +1,15 @@
+{
+  "name": "security-logging-demo",
+  "version": "1.0.0",
+  "description": "A Node.js application demonstrating security logging",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "ejs": "^3.1.6",
+    "bcrypt": "^5.0.1"
+  }
+}
